@@ -4,9 +4,9 @@ test pre-requisites
 
 pre-requisites are things that are supposed to have been in place before starting any kind of testing. For selenium webdriver testing, pre-requisites are as follows;
 
-One as a tester have to first select and download the language to use in writing the code test scripts in my own case I use Java which I had to download together with java jdk and set the path for both in 
-my enivornment variable, then the next thing is to download the environment that will be use to write the code, here I used Eclipse IDE. The next thing is to download all the 
-needed jar file like selenium standalone, webdriver for the browswer to be use in automation and others. And then open IDE, set the system property for the webdriver path and 
-import all external jar files. Now one can start writing the test script for the functionality testing on the Url to be tested. To do the aforementioned step, tester will 
-open the url manually and inspect the web page to check for web element locator, each web element has it own special locator the differentiate one to the other. This are thing the 
-tester will look for and also determines action that will be perform on each element locator.
+One as a tester have to first select and download the language to use in writing the code test scripts in my own case I use Java which I had to download together with java jdk
+and set the path for both in my enivornment variable, then the next thing is to download the environment that will be use to write the code, here I used Eclipse IDE. The next 
+thing is to download all the needed jar file like selenium standalone, webdriver for the browswer to be use in automation and others. And then open IDE, set the system property 
+for the webdriver path and import all external jar files. Now one can start writing the test script for the functionality testing on the Url to be tested. To do the aforementioned 
+step, tester will open the url manually and inspect the web page to check for web element locator, each web element has it own special locator the differentiate one to the other. 
+Thess are thing the tester will look for and also determines action that will be perform on each element locator.
